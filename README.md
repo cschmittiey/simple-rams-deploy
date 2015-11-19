@@ -1,6 +1,8 @@
 # Ultra-simple Generic RAMS deploy
 
 ## Prerequisites
+Right now, you must be running on windows.  If you're not, please follow [These Instructions](https://github.com/magfest/ubersystem-deploy/blob/master/INSTALL-vagrant.md) instead.
+
 Install all this stuff:
 * [Git](http://git-scm.com/) to check out this repo and to provide SSH.
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for running your development VM.
