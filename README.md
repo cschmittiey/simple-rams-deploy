@@ -22,6 +22,7 @@ It's recommended that you have a fast internet connection, at least 4gb of RAM, 
 2. run ```./install-unix.sh``` from the terminal
 3. after the deploy is finished, open a web browser to http://localhost:8000/uber/accounts/insert_test_admin
 4. login with username 'magfest@example.com' and password 'magfest'
+5. if it isn't already, set virtualbox as the default provider.
 
 ## To SSH into the machine
 
